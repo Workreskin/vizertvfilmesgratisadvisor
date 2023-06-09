@@ -1,4 +1,3 @@
-com.vizertvfilmesgratisadvisor.BoubkerAsDev
 {
   "ADS": {
 
